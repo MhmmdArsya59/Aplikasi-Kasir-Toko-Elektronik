@@ -33,6 +33,3 @@ Project ini adalah implementasi dasar sistem kasir menggunakan bahasa pemrograma
     ```bash
     java com.techstore.Main
     ```
-
-## 🎥 Video Penjelasan & Demo
-[Sertakan Link YouTube Anda Di Sini]
